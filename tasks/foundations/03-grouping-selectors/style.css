@@ -1,0 +1,13 @@
+.aloha { 
+    color:white;
+    background-color:black;
+}
+
+.ohana { 
+    background:yellow;
+}
+.aloha, .ohana
+{
+    font-size:28px;
+    font-family:'Times New Roman', Helvetica, sans-serif;
+}
